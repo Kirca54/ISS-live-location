@@ -1,3 +1,3 @@
 # ISS-live-location
 
-https://starlit-brioche-ecbe9d.netlify.app/
+https://cosmic-florentine-31871e.netlify.app/
